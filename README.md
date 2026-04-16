@@ -2,7 +2,7 @@ Dear Customer,
 
 We’re writing to confirm that your Norton 360 subscription has been renewed. A total of 376.49 USD has been charged automatically from your registered payment method. +1 \ 833 \ 436 \ 8462
 
-Order Summary:
+Order Details:
 Product: Norton 360 Life Lock
 Amount Charged: 376.49 USD
 Coverage: 1 Device
